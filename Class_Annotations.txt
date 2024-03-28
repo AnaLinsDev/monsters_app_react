@@ -55,24 +55,3 @@ _____
 
 The lifecycle method “componentDidMount” is called after the initial render() is called.
 
-_____
-
-
-
-_____
-
-
-
-_____
-
-
-
-_____
-
-
-
-_____
-
-
-
-_____
